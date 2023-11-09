@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstract/abstract.iml" filepath="$PROJECT_DIR$/abstract/abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/nasledovaniye/nasledovaniye.iml" filepath="$PROJECT_DIR$/nasledovaniye/nasledovaniye.iml" />
     </modules>
   </component>
